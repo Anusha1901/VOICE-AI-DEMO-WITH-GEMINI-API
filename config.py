@@ -9,7 +9,7 @@ class Config:
         # API Configuration
         self.GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
         self.GOOGLE_SHEETS_CREDS_PATH = os.getenv('GOOGLE_SHEETS_CREDS_PATH')
-        self.GOOGLE_SHEET_NAME = os.getenv('GOOGLE_SHEET_NAME', 'Voice_ai_demo_new')
+        self.GOOGLE_SHEET_NAME = os.getenv('GOOGLE_SHEET_NAME', 'YOUR SHEET NAME')
         
         # Voice Configuration
         self.SPEECH_RATE = int(os.getenv('SPEECH_RATE', 150))
