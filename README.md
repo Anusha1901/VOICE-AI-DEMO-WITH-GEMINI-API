@@ -234,7 +234,7 @@ python -c "import google.generativeai as genai; genai.configure(api_key='YOUR_KE
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/voice-ai-demo-with-gemini-api.git
+git clone https://github.com/Anusha1901/voice-ai-demo-with-gemini-api.git
 cd voice-ai-demo
 
 # Create virtual environment
